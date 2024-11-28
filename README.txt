@@ -34,3 +34,4 @@ there we can write commit lines... and for exit this promt Enter escape then :wq
 9. git restore <file> -----> It remove all files changes from the staging area to be committed ...
 
 
+10. `git commit -m "<message for commit...>"` -->
