@@ -12,5 +12,25 @@ it means those file arer not managed by git yet...
 4. git status
 
 Staging Area : 
+Staging Area : what all files are going to be a part of the next version..
+that will be create this staging area in the place , where git knows. what change will be done from the last version to the next version
+
+so add the file from working area to staging area --> git add <file>
+
+5. git add <file> ...
+
+6. git rm --cached <files> --> To move a file from staging area to working area..
+
+commit ---> "commit" is the particular version of the project ....
+
+7. git commit --> Registers Staging changes to a commit...
+
+there we can write commit lines... and for exit this promt Enter escape then :wq colon wq and Enter
+
+
+8. git log ---> list down all commit of the Repository If you want to exit out of git log promt press q...
+
+
+9. git restore <file> -----> It remove all files changes from the staging area to be committed ...
 
 
