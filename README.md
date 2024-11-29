@@ -51,4 +51,5 @@ Note: The name of remote connection is always used to establish communication of
 
 17. `git add .` : this command will add all files from woring repo to staging area..
 
+18. `git pull <name of remote><name of branch>`: to fetch file the our local file. 
 
