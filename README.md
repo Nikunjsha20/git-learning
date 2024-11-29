@@ -9,8 +9,7 @@
 working area : bunch of files..that are not currently handle by git..
 it means those file arer not managed by git yet...
 
-4. git status
-
+4. git status...
 Staging Area : 
 Staging Area : what all files are going to be a part of the next version..
 that will be create this staging area in the place , where git knows. what change will be done from the last version to the next version
