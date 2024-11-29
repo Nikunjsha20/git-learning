@@ -52,4 +52,9 @@ Note: The name of remote connection is always used to establish communication of
 
 18. `git pull <name of remote><name of branch>`: to fetch file the our local file. 
 
-19. 
+19. ## recommended Practice to do
+    -make change
+    -git add <filename>
+    -git commit
+    -git push
+    -git pull
