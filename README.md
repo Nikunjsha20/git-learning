@@ -1,5 +1,9 @@
 1. git init :power our folder to be managed by git and initializes a new empty repository
+<<<<<<< HEAD
 Nikunj
+=======
+2. nikunj
+>>>>>>> d0875043281079eb13fd958857079d2fd9f25f3c
 .........
 2.touch new.txt to create a folder..
 
