@@ -1,9 +1,5 @@
 1. git init :power our folder to be managed by git and initializes a new empty repository
-<<<<<<< HEAD
-Nikunj
-=======
-2. nikunj
->>>>>>> d0875043281079eb13fd958857079d2fd9f25f3c
+Piyush
 .........
 2.touch new.txt to create a folder..
 
@@ -60,6 +56,12 @@ Note: The name of remote connection is always used to establish communication of
 
 19. ## recommended Practice to do
     -make change
+    -git add <filename>
+    -git commit
+    -git push
+    -git pull
+
+ -make change
     -git add <filename>
     -git commit
     -git push
