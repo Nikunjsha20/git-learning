@@ -47,4 +47,8 @@ there we can write commit lines... and for exit this promt Enter escape then :wq
 
 Note: The name of remote connection is always used to establish communication of b/w the Repos..
 
+16. `git add <file1><file2><file3>` : This command will add Multiple file changes together in the staging area..
+
+17. `git add .` : this command will add all files from woring repo to staging area..
+
 
