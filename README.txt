@@ -35,3 +35,15 @@ there we can write commit lines... and for exit this promt Enter escape then :wq
 
 
 10. `git commit -m "<message for commit...>"` -->
+
+11. "git remote" -->
+
+12. git remote add <name of remote> <link_of the remote>
+
+13. git remote rename <oldName><newName>--> 
+14. remote connection
+15. git push <name of remote> <branch name_ By default master>.....
+
+
+Note: The name of remote connection is always used to establish communication of b/w the Repos..
+
