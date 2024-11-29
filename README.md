@@ -3,6 +3,7 @@
 2.touch new.txt to create a folder..
 
 3. rm -rf .git // rm -r .git
+   git git 
 
 [Working area || Staging Area || Repository Area]
 
