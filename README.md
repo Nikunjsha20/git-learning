@@ -1,5 +1,5 @@
 1. git init :power our folder to be managed by git and initializes a new empty repository
-Piyush
+Nikunj
 .........
 2.touch new.txt to create a folder..
 
